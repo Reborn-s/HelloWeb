@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SHE</title>
+
+</head>
+<body>
+<h1>测试请求参数</h1>
+    <a href="/Jservlet?aaa=AAA&bbb=BBB">点击这里</a>
+<hr/>
+    <form action="/Jservlet" method="post">
+        用户名：<input type="text" name="username"><br/>
+        密码：<input type="password" name="password"><br/>
+        爱好：<input type="checkbox" name="hobby" value="eat">吃饭
+        <input type="checkbox" name="hobby" value="sleep">睡觉
+        <input type="checkbox" name="hobby" value="code">代码
+        <br/>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

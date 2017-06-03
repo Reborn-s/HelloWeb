@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstWeb/FirstWeb.iml" filepath="$PROJECT_DIR$/FirstWeb/FirstWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWeb.iml" filepath="$PROJECT_DIR$/HelloWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RebornJar/RebornJar.iml" filepath="$PROJECT_DIR$/RebornJar/RebornJar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08_1/day08_1.iml" filepath="$PROJECT_DIR$/day08_1/day08_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10/day10.iml" filepath="$PROJECT_DIR$/day10/day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11/day11.iml" filepath="$PROJECT_DIR$/day11/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12/day12.iml" filepath="$PROJECT_DIR$/day12/day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13/day13.iml" filepath="$PROJECT_DIR$/day13/day13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_HelloMVC/day13_HelloMVC.iml" filepath="$PROJECT_DIR$/day13_HelloMVC/day13_HelloMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_RegisterLogin/day13_RegisterLogin.iml" filepath="$PROJECT_DIR$/day13_RegisterLogin/day13_RegisterLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17/day17.iml" filepath="$PROJECT_DIR$/day17/day17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day18/day18.iml" filepath="$PROJECT_DIR$/day18/day18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day18_JNDI/day18_JNDI.iml" filepath="$PROJECT_DIR$/day18_JNDI/day18_JNDI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19/day19.iml" filepath="$PROJECT_DIR$/day19/day19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19_CSTMpaging/day19_CSTMpaging.iml" filepath="$PROJECT_DIR$/day19_CSTMpaging/day19_CSTMpaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19_CustomerManagement/day19_CustomerManagement.iml" filepath="$PROJECT_DIR$/day19_CustomerManagement/day19_CustomerManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20/day20.iml" filepath="$PROJECT_DIR$/day20/day20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21/day21.iml" filepath="$PROJECT_DIR$/day21/day21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21_1/day21_1.iml" filepath="$PROJECT_DIR$/day21_1/day21_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21_2/day21_2.iml" filepath="$PROJECT_DIR$/day21_2/day21_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21_3/day21_3.iml" filepath="$PROJECT_DIR$/day21_3/day21_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21_4/day21_4.iml" filepath="$PROJECT_DIR$/day21_4/day21_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22/day22.iml" filepath="$PROJECT_DIR$/day22/day22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23/day23.iml" filepath="$PROJECT_DIR$/day23/day23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24_BookStore/day24_BookStore.iml" filepath="$PROJECT_DIR$/day24_BookStore/day24_BookStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day27/day27.iml" filepath="$PROJECT_DIR$/day27/day27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day28/day28.iml" filepath="$PROJECT_DIR$/day28/day28.iml" />
+    </modules>
+  </component>
+</project>

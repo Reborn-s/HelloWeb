@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="day13_RegisterLogin:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/day13_RegisterLogin_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="day13_RegisterLogin/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="day13_RegisterLogin" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-beanutils-1.9.3" />
+          <element id="library" level="project" name="commons-logging-1.2" />
+          <element id="file-copy" path="$PROJECT_DIR$/day13_RegisterLogin/web/WEB-INF/lib/jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/day13_RegisterLogin/web/WEB-INF/lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/day13_RegisterLogin/web/WEB-INF/lib/RebornJar.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/day13_RegisterLogin/web/WEB-INF/lib/junit-4.10.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/day13_RegisterLogin/web/WEB-INF/lib/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/day13_RegisterLogin/web/WEB-INF/lib/jaxen-1.1-beta-7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/day13_RegisterLogin/web/WEB-INF/lib/mysql-connector-java-5.1.37-bin.jar" />
+          <element id="library" level="project" name="standard" />
+          <element id="library" level="project" name="jstl" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

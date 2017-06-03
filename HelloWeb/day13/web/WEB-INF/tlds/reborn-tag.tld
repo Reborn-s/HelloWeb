@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"
+        version="2.0">
+
+    <display-name>Rebor tag</display-name>
+    <tlib-version>1.0</tlib-version>
+    <short-name>rTag</short-name>
+    <uri>http://www.reborn.com/tag/mytag</uri>
+
+    <tag>
+        <name>myTag1</name>
+        <tag-class>com.reborn.tag.MyTag1</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+    <tag>
+        <name>myTag2</name>
+        <tag-class>com.reborn.tag.MyTag2</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+    <tag>
+        <name>myTag3</name>
+        <tag-class>com.reborn.tag.MyTag3</tag-class>
+        <body-content>scriptless</body-content>
+    </tag>
+
+    <tag>
+        <name>skipTag</name>
+        <tag-class>com.reborn.tag.SkipTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+    <tag>
+        <name>proTag</name>
+        <tag-class>com.reborn.tag.PropertyTag</tag-class>
+        <body-content>scriptless</body-content>
+        <attribute>
+            <name>test</name>
+            <required>true</required>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
+    </tag>
+</taglib>

@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact name="RebornJar">
+    <output-path>$PROJECT_DIR$/../libraries/lib</output-path>
+    <root id="root">
+      <element id="archive" name="RebornJar.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/RebornJar/resources/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="RebornJar" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="commons-beanutils-1.9.3" />
+        <element id="library" level="project" name="commons-logging-1.2" />
+        <element id="library" level="project" name="commons-dbutils-1.6" />
+        <element id="library" level="project" name="mchange-commons-java-0.2.11" />
+        <element id="library" level="project" name="mysql-connector-java-5.1.37-bin" />
+      </element>
+    </root>
+  </artifact>
+</component>

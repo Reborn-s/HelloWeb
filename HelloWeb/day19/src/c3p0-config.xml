@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 配置文件中可以有多种配置信息 比如对应于不同的数据库-->
+<c3p0-config>
+    <!-- 默认配置信息 -->
+    <default-config>
+        <property name="driverClass">com.mysql.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/mydb</property>
+        <property name="user">root</property>
+        <property name="password">p123</property>
+
+        <property name="acquireIncrement">3</property>
+        <property name="initialPoolSize">20</property>
+        <property name="minPoolSize">3</property>
+        <property name="maxPoolSize">3</property>
+    </default-config>
+
+    <!-- 专门为Oracle提供的配置信息 -->
+    <named-config name="oracle-config">
+        <property name="driverClass">com.mysql.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/mydb</property>
+        <property name="user">root</property>
+        <property name="password">p123</property>
+
+        <property name="acquireIncrement">3</property>
+        <property name="initialPoolSize">20</property>
+        <property name="minPoolSize">3</property>
+        <property name="maxPoolSize">3</property>
+    </named-config>
+</c3p0-config>

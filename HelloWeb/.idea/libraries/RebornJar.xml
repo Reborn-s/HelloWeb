@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RebornJar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libraries/lib/RebornJar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="day23:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/day23_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="day23/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="day23" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="standard" />
+          <element id="library" level="project" name="xstream-1.4.10" />
+          <element id="file-copy" path="$PROJECT_DIR$/../libraries/lib/junit-4.10.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

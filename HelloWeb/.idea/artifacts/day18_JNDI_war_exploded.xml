@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="day18_JNDI:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/day18_JNDI_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="day18_JNDI/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="day18_JNDI" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.37-bin" />
+          <element id="library" level="project" name="c3p0-0.9.5.2" />
+          <element id="library" level="project" name="mchange-commons-java-0.2.11" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
